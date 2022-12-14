@@ -1,6 +1,5 @@
 Hola modificame
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Hola modificado
 =======
 Argentina ganara el mundial este año
@@ -14,3 +13,10 @@ Argentina ganara el mundial este año
 >>>>>>> 3682c8a174b2d3b7e4147e2cb37afe0cc8fb9b67
 
 Hello
+=======
+Argentina ganara el mundial este año
+
+Saludos!
+
+
+hola SFA ROSARIO
