@@ -1,2 +1,16 @@
 Hola modificame
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hola modificado
+=======
 Argentina ganara el mundial este año
+>>>>>>> 7e307114af731749c6fa5e2a814d0e1312e6b530
+Hola mundo
+=======
+Alooo
+=======
+Argentina ganara el mundial este año
+>>>>>>> 198ba37036ba9859fe94e91389e35452ef26bbce
+>>>>>>> 3682c8a174b2d3b7e4147e2cb37afe0cc8fb9b67
+
+Hello
