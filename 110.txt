@@ -1,7 +1,5 @@
 Hola modificame
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Hola modificado
 =======
 Argentina ganara el mundial este año
@@ -19,4 +17,6 @@ Hello
 Argentina ganara el mundial este año
 
 Saludos!
->>>>>>> Stashed changes
+
+
+hola SFA ROSARIO
